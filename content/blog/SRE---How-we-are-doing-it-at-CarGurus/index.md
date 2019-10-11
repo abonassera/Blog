@@ -39,15 +39,15 @@ Given the size of our team we were hesitant to take on running all of our servic
 ### Where we are now
 I feel that the work we are doing has been well appreciated by our peers, but there have been challenges.
 
-* Staffing is a delicate operation, and something important to get right, and significant effort is needed in that area. It's important that everyone involved in hiring is on the same page about the role, team, and how we are doing it when having conversations with candidates.
+* Staffing is a delicate operation, and something important to get right, and significant effort is needed in that area. It's important that everyone involved in hiring is on the same page about the role, team, and how we are doing it when having conversations with candidates
 
-* Given the size of the team, we sometimes tend to be teetering on the line between [toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) and having the resources to improve and address technical debt. 
+* Given the size of the team, we sometimes tend to be teetering on the line between [toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) and having the resources to improve and address technical debt 
 
-* Sometimes we still run into areas of overlap with other teams, a lot of my time is spent on working to define areas or ownership. 
+* Sometimes we still run into areas of overlap with other teams, a lot of my time is spent on working to define areas or ownership 
 
-* We currently could provide a lot more information to the teams we work with that measure what value we are providing, and in what areas we can improve up.
+* We currently could provide a lot more information to the teams we work with that measure what value we are providing, and in what areas we can improve upon
 
-I feel these are all solvable issues and are indicative that are making progress on our journey to SRE.
+I feel these are all solvable issues and are indicative that are making progress on our journey to SRE
 
 We plan on continuing to partner with our Product teams to help them define Service Level Objectives and leverage the tools and services our Observability team provides to ensure we are both operating within these limit and maximizing their ability to do what they do, create and develop amazing products!
 
