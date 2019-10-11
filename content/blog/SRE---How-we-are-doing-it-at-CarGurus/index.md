@@ -14,7 +14,7 @@ Since its original publication, other books have been published, a community gre
 
 As individuals started to try and bring SRE practices into their organizations and teams, it quickly became apparent that most of the places we work are not Google, or Facebook, or Netflix. Different "versions" of SRE have evolved to address this, all working towards how Yaniv Aknin concisely distilled his definition of SRE at SREcon EMEA in Dublin, Ireland last week: **"Measurably Optimizing Reliability vs. Cost"**.
 
-## About me
+### About me
 Here at CarGurus I am the Senior Manager of our SRE team. We are a relatively new team, created early in 2019, and have the support of our Product teams and Senior Management to create a SRE practice from scratch. I was extremely excited at this opportunity and jumped at the chance.  My excitement started to fade a bit when we sat down and started having detailed discussions on how to actually get started! I decided to write this blog post to perhaps offer some advice or insight to individuals in similar situations.
 
 ### The Mission
