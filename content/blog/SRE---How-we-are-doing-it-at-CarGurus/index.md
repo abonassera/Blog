@@ -18,7 +18,7 @@ As individuals started to try and bring SRE practices into their organizations a
 Here at CarGurus I am the Senior Manager of our SRE team. We are a relatively new team, created early in 2019, and have the support of our Product teams and Senior Management to create a SRE practice from scratch. I was extremely excited at this opportunity and jumped at the chance.  My excitement started to fade a bit when we sat down and started having detailed discussions on how to actually get started! I decided to write this blog post to perhaps offer some advice or insight to individuals in similar situations.
 
 ### The Mission
-When I joined the team in December of 2018, great work was being done in creating robust observability tools, and I was hired to manage this team. We provided the ability to create and collect rich metrics and logging data, and felt that working with our product teams to best use this information to ensure positive customer experience and creating better experiences for those developing these services using SRE concepts and practices would be a great logical next step. 
+When I joined the team in December of 2018, great work was being done in creating robust observability tools, and I was hired to manage the team that designed and provided these tools. We provided the ability to create and collect rich metrics and logging data, and felt that working with our product teams to best use this information to ensure positive customer experience and creating better experiences for those developing these services using SRE concepts and practices would be a great logical next step. 
 
 But how could we get to something that approximates SRE?
 
