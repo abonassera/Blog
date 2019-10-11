@@ -17,12 +17,15 @@ As individuals started to try and bring SRE practices into their organizations a
 ### About me
 Here at CarGurus I am the Senior Manager of our SRE team. We are a relatively new team, created early in 2019, and have the support of our Product teams and Senior Management to create a SRE practice from scratch. I was extremely excited at this opportunity and jumped at the chance.  My excitement started to fade a bit when we sat down and started having detailed discussions on how to actually get started! I decided to write this blog post to perhaps offer some advice or insight to individuals in similar situations.
 
-### The Mission
 When I joined the team in December of 2018, great work was being done in creating robust observability tools, and I was hired to manage the team that designed and provided these tools. We provided the ability to create and collect rich metrics and logging data, and felt that working with our product teams to best use this information to ensure positive customer experience and creating better experiences for those developing these services using SRE concepts and practices would be a great logical next step. 
 
-But how could we get to something that approximates SRE?
+### The opportunity
+Engineers spent time addressing incidents in production, and while it's important for everyone to have a sense of ownership, the processes and methods around how we dealt with these incidents could have been improved. Product teams naturally want to get features out, and having advocates who could demonstrably advocate for and take on work to improve reliability "felt" like a good area to head into. We provided tools to track trends, alert on thresholds, create rich visualizations, but engineers were too busy to try and find ways to take advantage of them.  We felts that SRE could be something that could help in these areas.
 
-We started with answering the "Why?". We agreed that our mission in SRE at CarGurus is to optimize reliability for agreed upon services, and to help ensure a positive developer experience to our peers in Engineering. Our definition of a service is a shared resource that more than two individuals depend on.
+But how could we get to something that approximates SRE? 
+
+### The mission
+Within our department, we started by trying to answer the "Why?". We agreed that our mission in SRE at CarGurus could be to optimize reliability for agreed upon services, and to help ensure a positive developer experience to our peers in Engineering. We defined a service as a shared resource that more than two individuals depend on.
 
 ### How we are doing it
 With the support and participation of my manager, we began meeting with senior management and engineering leads on product teams to discuss the concept and understand if there was an appetite for SRE. We also have a strong System Engineering team at CarGurus, and it was important to come to an understanding about how to best co-exist. I strongly recommend this exercise, creating a shadow engineering team or operating without the sponsorship of your management will likely cause your SREs to feel like outsiders, non-aligned with teams, and lead to stress and confusion about role and ownership.
