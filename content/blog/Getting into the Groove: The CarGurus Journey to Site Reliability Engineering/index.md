@@ -25,7 +25,7 @@ Engineers spent time addressing incidents in production, and while it's importan
 But how could we get to something that approximates SRE? 
 
 ### The mission
-Within our department, we started by trying to answer why changes were needed. We agreed that our mission in SRE at CarGurus could be to optimize reliability for agreed upon services, and to help ensure a positive developer experience to our peers in engineering. We defined a service as a shared resource that more than two individuals depend on.
+Within our department, we started by trying to answer why changes were needed. We agreed that our mission in SRE at CarGurus could be to optimize reliability for agreed upon services and to help ensure a positive developer experience to our peers in engineering. We defined a service as a shared resource that more than two individuals depend on.
 
 ### How we are doing it
 With the support and participation of my manager, we began meeting with senior management and engineering leads on product teams to discuss the concept and understand if there was an appetite for SRE. We also have a strong system engineering team at CarGurus, and it was important to come to an understanding about how to best co-exist. I strongly recommend this exercise, creating a shadow engineering team or operating without the sponsorship of your management will likely cause your SREs to feel like outsiders, non-aligned with teams, and lead to stress and confusion about role and ownership.
